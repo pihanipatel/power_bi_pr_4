@@ -332,3 +332,7 @@ Its three pages provide focused views of employee strength, active workforce, ge
 **Project Name:** Accenture India Workforce Analytics Dashboard  
 **Power BI File:** `pr_4.pbix`  
 **Documentation File:** `README.md`
+
+## Project Video
+
+[Watch the Accenture India Workforce Analytics Dashboard video](https://drive.google.com/file/d/1jTmbEf9_52ppVPqFJ_zydznzlBxB20Di/view?usp=sharing)
